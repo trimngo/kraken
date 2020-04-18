@@ -1,0 +1,23 @@
+# This document records features and feedback on the system
+
+## Ease of visualizing history
+
+### Problem
+It's a bit hard for me to visualize changes. It'll be really hard for nontechnical people to get used to changes in PRs.
+
+## Voting
+
+### Problem
+It's really hard to vote for issues. It's impossible to vote for solutions (there is no proposal feature)
+
+### Related feature: Proposals
+With each issue, we should link to a proposal doc of some sort. For example, Issue #1 should have a list of docs for proposals...not just a list of comments.
+
+## Proposal of solutions
+
+See above
+
+## Issue reprioritization
+
+### Problem
+Related to voting and proposals. Once there's an issue, it remains in order of creation. We should automatically change the priority of issues.
